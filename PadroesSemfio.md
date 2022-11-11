@@ -57,4 +57,12 @@ Ex.: Cartão de onibus e de crédito(de aproximação) funciona com esta tecnolo
 As maquinas que de scan[estou chamando de scan pq n sei o nome] mandam ondas eletromagneticas para o cartão que serão transformadas em energia no cartão e transmitirão ondas eletromagneticas de volta para o scan[estou chamando de scan pq n sei o nome]
 
 
+# Outras Caracteristicas Padrãoes Sem fio
 
+## Canais sem fio
+
+Dispositivos sem fio trabalham na mesma frequência 
+
+Porém eles trabalhaam em canais diferentes. CAnais são partições dos intervalos da frequencia. Em uma frequencia existem 13 canais. Assim podemos deduzir que podem existir 13 dispositivos utilizando a mesma frequencia em uma área.
+
+Não é possivel que dispositivos utilizem a frenquencias ja que uma interferiria na outra. 
